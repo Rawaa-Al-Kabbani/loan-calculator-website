@@ -1,24 +1,5 @@
-# zmarta-calculator
+# Loan calculator
+Loan calculator is a loan/calculator website for calculating the monthly payments for the loan you writes. The app is written in Vue.js. 
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Running the website locally
+To run the website locally first clone this repository, install the dependencies with `npm install` and then running `npm run serve`. The app be served on [http://localhost:8080](http://localhost:8080) by default.
